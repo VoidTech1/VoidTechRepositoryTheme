@@ -1,7 +1,7 @@
 {
-  "name": "fallout4-terminal-theme",
+  "name": "voidtech-terminal-theme",
   "version": "2.0.0",
-  "description": "Fallout 4 Terminal theme for BetterDiscord.",
+  "description": "VoidTech theme for BetterDiscord.",
   "main": "",
   "scripts": {
     "build": "sass --style=compressed --no-source-map src/main.scss:public/mainRewrite.css src/crtEffect.scss:public/css/crtEffect.css",
